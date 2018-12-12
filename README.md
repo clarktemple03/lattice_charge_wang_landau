@@ -1,0 +1,1 @@
+# lattice_charge_wang_landau
